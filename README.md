@@ -9,7 +9,6 @@ at the 802.11 auth stage (MAC-filter style), so presenting a different MAC fixes
 | File | What it is |
 |------|-----------|
 | `netmac.sh`      | The finished script (use this one). |
-| `netmac.sh.orig` | Your original, kept for reference/diffing. |
 | `README.md`      | This file. |
 
 ## 1. Move it to the other device
